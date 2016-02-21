@@ -1,3 +1,7 @@
 <?php
-phpinfo();
+class Info{
+    public function _info(){
+        phpinfo();
+    }
+}
 ?>
